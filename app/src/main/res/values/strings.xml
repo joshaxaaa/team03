@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">猜拳遊戲(猜贏了才可以開始婚姻建議)</string>
+    <string name="page_name">開始猜拳</string>
+    <string name="player">玩家出拳</string>
+    <string name="computer">電腦出拳</string>
+    <string name="scissors">剪刀</string>
+    <string name="stone">石頭</string>
+    <string name="paper">布</string>
+    <string name="win">恭喜，你贏了！</string>
+    <string name="lose">很可惜，你輸了！</string>
+    <string name="draw">平手！</string>
+    <string name="gender">性別：</string>
+    <string name="age">年齡：</string>
+    <string name="suggestion">建議</string>
+    <string name="not_hurry">還不急。</string>
+    <string name="get_married">趕快結婚！</string>
+    <string name="find_couple">開始找對象。</string>
+    <string name="male">male</string>
+
+    <string-array name="gender_list">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+</resources>
